@@ -12,12 +12,7 @@ public class Student
     {
 	System.out.println("M2-Method");
     }
-    public static void main(String[] args) 
-    {
-
-public class Student {
-	
-	System.out.println("Prerana");
+  
 public static void main(String[] args) {
 		
 	System.out.println("jhsashqjnsasjasjaisjaisjwjiojw");
